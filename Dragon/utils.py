@@ -82,7 +82,7 @@ def searchForTxt(chain: str):
         chain = "Ethereum"
     elif chain.lower() == "binance smart chain" or chain.lower() == "bsc":
         chain = "BSC"
-    elif chain.lower() == "base network"
+    elif chain.lower() == "base network":
         chain = "Base"
     elif chain.lower() == "gmgn":
         chain = "GMGN"
